@@ -1,8 +1,9 @@
 TCGA matchmaker
+
 - Activity 1: Set up GitHub repository
-  - [X] Task 1.1: Set up GitHub repository
-  - [X] Task 1.2: Create high-level description document
-  - [X] Task 1.3: Create code structure
+  - [x] Task 1.1: Set up GitHub repository
+  - [x] Task 1.2: Create high-level description document
+  - [x] Task 1.3: Create code structure
 - Activity 2: Build prototype I
   - Activity 2.1 : Refine design to describe tasks
     - [ ] Task 2.1.1: Break project into activities
@@ -13,9 +14,8 @@ TCGA matchmaker
     - [ ] Task 2.2.3: Define save output function
   - Activity 2.3: Implement read data and save output and one feature in the analsyis
     - [ ] Task 2.3.1: Implement read/create data function
-    - [ ] Task 2.3.2: Implement one analysis function: compute profile score for 1 TCGA sample
-          - [ ] The first implementation of this function will be with a mockup input (like two numbers) and a simple output - the difference
-          - [ ] The next step is to have a proper input in the correct format - just that it will be a scaled up input - just a small matrix 4x2 for instance and for that I compute a simple match score again: the sum of the differences between my sample and my reference profile    
+    - [ ] Task 2.3.2: Implement one analysis function: compute profile score for 1 TCGA sample - [ ] The first implementation of this function will be with a mockup input (like two numbers) and a simple output - the difference - [ ] The next step is to have a proper input in the correct format - just that it will be a scaled up input - just a small matrix 4x2 for instance and for that I compute a simple match score again: the sum of the differences between my sample and my reference profile
     - [ ] Task 2.3.3: Implement save output function
-  - Activity 2.4: Test prototype 
+  - Activity 2.4: Test prototype
 - Activity 3: Build prototype II
+- Activity 4: Build prototype III
