@@ -2,6 +2,10 @@ from TCGA_matchmaker import match_computation as m
 import pandas as pd 
 
 def test_hello():
+	"""
+	Test to determine if hello_there returns the appropriate message for the provided argument. 
+	Raises AssertionError if computed result does not match expectation. 
+	"""
 	expected_result = "Hello, there, BIOINF 576!"
 	computed_result = m.hello_there("BIOINF 576")
 	print(computed_result)
