@@ -1,2 +1,2 @@
 # TCGA matchmaker
-Matching a gene expression profile in TCGA cancer samples
+This package is used for matching a gene expression profile in TCGA cancer samples
