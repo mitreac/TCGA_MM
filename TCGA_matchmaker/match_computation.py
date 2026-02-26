@@ -83,7 +83,7 @@ def compute_match_scores(samples_data, profile):
 
 def hello_there(x):
 	"""
-	Funtion to say hello
+	Function to say hello
 	"""	
 	message = "Hello, there, " + x +  "!"
 	return message
